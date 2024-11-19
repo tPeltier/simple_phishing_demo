@@ -1,0 +1,44 @@
+From: support@hospitalsupport.com
+To: john_smith@hospital.com
+Subject: IMPORTANT! Update Your ID Badge ASAP!
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--your-boundary
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Hi John Smith,
+Healthcare guidelines require personnel in hospitals to wear an updated identification.
+
+Make sure you have an up-to-date ID photo to complete our security validation.
+
+Are you an essential employee and worker such as doctor, nurse or medical
+assistant? Or planning to visit a hospital in the next few days? We will do our
+best to set up your ID Badge Update as quickly as possible.
+
+Please add your details, upload a new photo and get an updated ID badge!
+
+Login & Update your ID badge<http://localhost:8090/l0gin>
+
+--boundary-string
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+    <p> Hi John Smith, </p>
+    <p>Healthcare guidelines require personnel in hospitals to wear an updated
+        identification.</p>
+
+    <p>Make sure you have an up-to-date ID photo to complete our security
+        validation.</p>
+
+    <p>Are you an essential employee and worker such as doctor, nurse or medical
+        assistant? Or planning to visit a hospital in the next few days? We will do our
+        best to set up your ID Badge Update as quickly as possible.</p>
+
+    <p>Please add your details, upload a new photo and get an updated ID badge!</p>
+
+<a href="http://localhost:8090/l0gin">Login & Update your ID badge</a>
+
+--boundary-string--
